@@ -4,7 +4,7 @@ The most straightforward way to build the EPANET files is by using `CMake` ([htt
 
 The project's `CMake` file (`CMakeLists.txt`) is located in its root directory and supports builds for Linux, Mac OS and Windows. To build the EPANET library and its command line executable using `CMake`, first open a console window and navigate to the project's root directory. Then enter the following commands:
 
-```
+``` 
 mkdir build
 cd build
 cmake ..
